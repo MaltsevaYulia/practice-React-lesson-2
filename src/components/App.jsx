@@ -70,3 +70,4 @@ export class App extends Component {
     );
   }
 }
+console.log('Hello dear friends')
